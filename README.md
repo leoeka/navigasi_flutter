@@ -19,4 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 
 # hasil akhir ![Alt text](<Screenshot 2024-10-07 122108.png>) ![Alt text](<Screenshot 2024-10-07 122057.png>)
 
-# penjelasan (Program ini adalah aplikasi sederhana untuk menampilkan daftar item barang seperti dalam platform online shop)
+# penjelasan (Program ini adalah aplikasi sederhana untuk menampilkan daftar item barang seperti dalam platform online shop langkah pertama membuat tampilan daftar barang contoh nya gula dan garam menggunakan kelas itempage kemudian membuat agar bagaimana cara nya ketika gambar barang bisa melakukan interaksi ketika dipencet mengarah ke halaman lain seperti halaman checkout)
