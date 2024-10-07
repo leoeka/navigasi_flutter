@@ -9,8 +9,8 @@ class HomePage extends StatelessWidget {
       price: 5000, 
       photo: 'assets/image/gula.jpg', 
       rating: 4.5,  // Nilai rating
-      stock: 10,     // Stok tersedia
-       nim: '362358302003',  // NIM
+      stock: 10,    // Stok tersedia
+      nim: '362358302003',  // NIM
       nama: 'Leo eka matra', // Nama
     ),
     Item(
@@ -18,7 +18,7 @@ class HomePage extends StatelessWidget {
       price: 2000, 
       photo: 'assets/image/garam.webp', 
       rating: 4.2,  // Nilai rating
-      stock: 20,     // Stok tersedia
+      stock: 20,    // Stok tersedia
       nim: '362358302003',  // NIM
       nama: 'Leo eka matra', // Nama
     ),
@@ -90,6 +90,24 @@ class HomePage extends StatelessWidget {
               ),
             );
           },
+        ),
+      ),
+      bottomNavigationBar: BottomAppBar(
+        child: Container(
+          padding: const EdgeInsets.all(8),
+          child: Row(
+            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+            children: [
+              Text(
+                'NIM: 362358302003',
+                style: TextStyle(fontSize: 16),
+              ),
+              Text(
+                'Nama: Leo eka matra',
+                style: TextStyle(fontSize: 16),
+              ),
+            ],
+          ),
         ),
       ),
     );

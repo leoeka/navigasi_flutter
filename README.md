@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# Pratikum pembuatan navigasi dalam web mobile menggunakan flutter 
+
+# hasil akhir ![Alt text](<Screenshot 2024-10-07 122108.png>) ![Alt text](<Screenshot 2024-10-07 122057.png>)
+
+# penjelasan (Program ini adalah aplikasi sederhana untuk menampilkan daftar item barang seperti dalam platform online shop)
